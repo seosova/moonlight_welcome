@@ -1,7 +1,9 @@
 moonlight_welcome
 =================
 
-Some materials for moonlight DE
+Some materials for moonlight's main page on GitHub. Font Open Sans Light. Color - Flat UI. Small icon by Neil Hainsworth from iconfinder.
+
+
 
 [moonlight]: http://seosova.ru/moonlight/img/welcome.png
 [mail]: http://seosova.ru/moonlight/img/maillogo.png
