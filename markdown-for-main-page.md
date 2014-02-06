@@ -1,10 +1,10 @@
 =================
 
-[moonlight]: http://seosova.ru/moonlight/img/logowelcomebig.png
-[mail]: http://seosova.ru/moonlight/img/logomail.png
-[gplus]: http://seosova.ru/moonlight/img/logogplus.png
-[twitter]: http://seosova.ru/moonlight/img/logotwitter.png
-[facebook]: http://seosova.ru/moonlight/img/logofacebook.png
+[moonlight]: http://seosova.ru/moonlight/img/welcome.png
+[mail]: http://seosova.ru/moonlight/img/maillogo.png
+[gplus]: http://seosova.ru/moonlight/img/gpluslogo.png
+[twitter]: http://seosova.ru/moonlight/img/twitterlogo.png
+[facebook]: http://seosova.ru/moonlight/img/facebooklogo.png
 
 [moonlight-blog]: http://moonlightde.blogspot.ru/
 [link-mail]: http://freelists.org/list/moonlight_desktop
@@ -17,4 +17,5 @@
 [![mail]][link-mail]
 [![gplus]][link-gplus]
 [![twitter]][link-twitter]
-[![facebook]][link-facebook]
+[![facebook]][link-facebook] 
+
