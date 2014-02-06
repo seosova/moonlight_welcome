@@ -3,7 +3,7 @@ moonlight_welcome
 
 Some materials for moonlight DE
 
-[moonlight]: http://seosova.ru/moonlight/img/logowelcome.png
+[moonlight]: http://seosova.ru/moonlight/img/logowelcomebig.png
 [mail]: http://seosova.ru/moonlight/img/logomail.png
 [gplus]: http://seosova.ru/moonlight/img/logogplus.png
 [twitter]: http://seosova.ru/moonlight/img/logotwitter.png
