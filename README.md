@@ -3,11 +3,11 @@ moonlight_welcome
 
 Some materials for moonlight DE
 
-[moonlight]: http://seosova.ru/moonlight/img/logowelcomebig.png
-[mail]: http://seosova.ru/moonlight/img/logomail.png
-[gplus]: http://seosova.ru/moonlight/img/logogplus.png
-[twitter]: http://seosova.ru/moonlight/img/logotwitter.png
-[facebook]: http://seosova.ru/moonlight/img/logofacebook.png
+[moonlight]: http://seosova.ru/moonlight/img/logo_welcomebig.png
+[mail]: http://seosova.ru/moonlight/img/logo_mail.png
+[gplus]: http://seosova.ru/moonlight/img/logo_gplus.png
+[twitter]: http://seosova.ru/moonlight/img/logo_twitter.png
+[facebook]: http://seosova.ru/moonlight/img/logo_facebook.png
 
 [moonlight-blog]: http://moonlightde.blogspot.ru/
 [link-mail]: http://freelists.org/list/moonlight_desktop
